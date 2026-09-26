@@ -1,0 +1,423 @@
+# Terms of Service for SWB Poke Monitor
+
+**Effective Date:** September 26, 2026  
+**Last Updated:** September 26, 2026
+
+## 1. Acceptance of Terms
+
+These Terms of Service ("Terms") govern your access to and use of SWB Poke Monitor ("SWB Poke Monitor," "the App," "the Service," "we," "us," or "our"), including its Discord application, inventory-monitoring features, notifications, APIs, websites, and related services.
+
+By installing, accessing, interacting with, or using SWB Poke Monitor, you agree to these Terms.
+
+If you do not agree to these Terms, do not use SWB Poke Monitor.
+
+Your use of Discord and third-party retailer services remains subject to the separate terms and policies of those services.
+
+---
+
+## 2. Description of the Service
+
+SWB Poke Monitor is an independent Pokémon Trading Card Game inventory-monitoring and notification service.
+
+Features may include:
+
+- Pokémon TCG product monitoring
+- Retailer inventory monitoring
+- Product searches
+- Online availability monitoring
+- Local inventory searches
+- Price monitoring
+- Restock notifications
+- Discord alerts
+- Product watchlists
+- Retailer-specific alerts
+- Product and set-specific monitoring
+- Links to third-party retailers
+- Other related inventory-monitoring functionality
+
+Features may be added, modified, suspended, or removed at any time.
+
+---
+
+## 3. Inventory Information Is Not Guaranteed
+
+SWB Poke Monitor attempts to provide useful product availability and pricing information, but inventory information can change rapidly.
+
+We do not guarantee:
+
+- Product availability
+- Local store inventory
+- Online inventory
+- Product quantities
+- Product prices
+- Sale prices
+- Product descriptions
+- Product images
+- Store hours
+- Product condition
+- Shipping availability
+- Order eligibility
+- Retailer fulfillment
+- Restock times
+- Accuracy of retailer information
+- Successful purchases
+
+Inventory information may be delayed, incomplete, inaccurate, cached, or outdated.
+
+A notification stating that a product is "IN STOCK" does not guarantee that the product will still be available when you attempt to purchase it.
+
+You should verify product information, pricing, and availability directly with the applicable retailer before making purchasing decisions.
+
+---
+
+## 4. No Purchasing Guarantee
+
+SWB Poke Monitor does not guarantee that receiving an alert will allow you to purchase a product.
+
+Products may:
+
+- Sell out before you reach the retailer
+- Be reserved by other customers
+- Have purchase limits
+- Be unavailable in your geographic area
+- Be unavailable for shipping
+- Be unavailable for pickup
+- Be incorrectly reported by retailer systems
+- Have changed prices
+- Be cancelled by a retailer after an order is placed
+
+SWB Poke Monitor is not responsible for retailer purchasing, payment, order processing, fulfillment, shipping, cancellation, return, or refund decisions.
+
+---
+
+## 5. Third-Party Retailers
+
+SWB Poke Monitor may monitor, reference, or provide links to third-party retailers.
+
+These may include, but are not limited to:
+
+- Target
+- Walmart
+- GameStop
+- Best Buy
+- Pokémon Center
+- Dollar General
+- Family Dollar
+- Dollar Tree
+- Five Below
+- Walgreens
+- CVS
+- Sam's Club
+- Costco
+- BJ's Wholesale Club
+- Meijer
+- Kroger
+- Barnes & Noble
+- Hot Topic
+- BoxLunch
+- Macy's
+- Amazon
+
+Retailer availability within the Service may change at any time.
+
+SWB Poke Monitor does not control these retailers.
+
+Your purchases and interactions with a retailer are transactions between you and that retailer.
+
+The applicable retailer's terms, privacy policy, return policy, shipping policy, purchase limits, and other rules apply to your transaction.
+
+Unless expressly stated otherwise, no retailer sponsors, endorses, operates, or is affiliated with SWB Poke Monitor.
+
+---
+
+## 6. Discord
+
+Certain SWB Poke Monitor functionality is provided through Discord.
+
+You must comply with Discord's applicable Terms of Service, Community Guidelines, and other applicable policies when using SWB Poke Monitor through Discord.
+
+Discord may modify its APIs, permissions, application requirements, or platform functionality at any time.
+
+Changes made by Discord may affect or interrupt SWB Poke Monitor functionality.
+
+SWB Poke Monitor is an independent application and is not operated or endorsed by Discord Inc.
+
+---
+
+## 7. User Responsibilities
+
+You agree to use SWB Poke Monitor only for lawful purposes.
+
+You may not:
+
+- Use the Service to violate applicable laws or regulations
+- Attempt to gain unauthorized access to SWB Poke Monitor systems
+- Attempt to obtain application tokens, API credentials, passwords, or other secrets
+- Circumvent security or access controls
+- Intentionally overload or disrupt the Service
+- Abuse commands, endpoints, or monitoring systems
+- Attempt to bypass rate limits
+- Use automated systems to intentionally overwhelm the Service
+- Introduce malicious software or code
+- Impersonate SWB Poke Monitor or its operator
+- Falsely claim affiliation with the Service
+- Use the Service in a manner intended to harm another person or service
+- Use SWB Poke Monitor to facilitate fraud or other unlawful conduct
+
+We may restrict or terminate access where reasonably necessary to protect the Service, its users, or third parties.
+
+---
+
+## 8. Server Administrators
+
+Discord server administrators who install SWB Poke Monitor are responsible for:
+
+- Having authority to install applications in their server
+- Selecting appropriate channels for notifications
+- Configuring permissions appropriately
+- Informing server members about the App where appropriate
+- Removing the App if they no longer wish to use it
+
+Installation of SWB Poke Monitor does not give the App ownership or control of a Discord server.
+
+---
+
+## 9. User Watchlists and Alerts
+
+Users may be able to create watchlists for products, sets, retailers, prices, or locations.
+
+Watchlists do not guarantee:
+
+- Continuous monitoring
+- A particular polling frequency
+- Successful notification delivery
+- Immediate notification
+- Product availability
+- Purchase success
+
+Technical issues, retailer outages, API restrictions, rate limits, Discord outages, hosting outages, or other circumstances may delay or prevent notifications.
+
+---
+
+## 10. Rate Limits and Service Protection
+
+SWB Poke Monitor may impose:
+
+- Request limits
+- Command limits
+- Inventory-check intervals
+- Alert limits
+- Watchlist limits
+- Server limits
+- Other technical restrictions
+
+These restrictions may be changed when reasonably necessary to maintain service reliability, comply with third-party requirements, or prevent abuse.
+
+Attempts to intentionally circumvent these protections may result in suspension or termination of access.
+
+---
+
+## 11. Availability of the Service
+
+SWB Poke Monitor is provided on an "as available" basis.
+
+We do not guarantee that the Service will:
+
+- Operate continuously
+- Be available at all times
+- Remain error-free
+- Support every retailer indefinitely
+- Detect every restock
+- Detect every price change
+- Deliver every alert
+- Maintain a specific polling frequency
+
+The Service may experience downtime because of:
+
+- Maintenance
+- Software updates
+- Hosting outages
+- Discord outages
+- Retailer outages
+- API changes
+- Rate limiting
+- Security incidents
+- Third-party service changes
+- Infrastructure failures
+- Circumstances outside our reasonable control
+
+---
+
+## 12. Retailer Integrations
+
+Retailer integrations may rely on official APIs, authorized APIs, publicly accessible information, affiliate services, or other permitted data sources.
+
+Retailers may change or discontinue access to product or inventory information at any time.
+
+We reserve the right to disable or remove a retailer integration if continued operation becomes unreliable, unavailable, legally problematic, or inconsistent with applicable third-party requirements.
+
+---
+
+## 13. Intellectual Property
+
+The SWB Poke Monitor software, original branding, documentation, code, design elements, and other original materials may be protected by applicable intellectual-property laws.
+
+Nothing in these Terms grants users ownership of SWB Poke Monitor's intellectual property.
+
+Any open-source portions of SWB Poke Monitor are governed by the applicable open-source license included with those portions.
+
+---
+
+## 14. Pokémon and Third-Party Trademarks
+
+Pokémon, Pokémon TCG, and related names, logos, characters, trademarks, and intellectual property belong to their respective rights holders.
+
+Retailer names, logos, and trademarks belong to their respective owners.
+
+Discord and related trademarks belong to Discord Inc.
+
+SWB Poke Monitor is an independent project.
+
+Unless expressly stated otherwise, SWB Poke Monitor is not affiliated with, endorsed by, sponsored by, authorized by, or operated by:
+
+- The Pokémon Company
+- Nintendo
+- Game Freak
+- Creatures Inc.
+- Discord Inc.
+- Any retailer monitored or referenced by the Service
+
+Third-party names may be used solely to identify relevant products, retailers, platforms, or services.
+
+---
+
+## 15. Privacy
+
+Use of SWB Poke Monitor is also subject to the SWB Poke Monitor Privacy Policy.
+
+The Privacy Policy describes the categories of information the Service may process and how that information may be used.
+
+The Privacy Policy should be reviewed before using the Service.
+
+---
+
+## 16. No Professional or Financial Advice
+
+Information provided through SWB Poke Monitor is for informational purposes.
+
+Product pricing, availability, historical prices, or other information provided through the Service should not be interpreted as financial, investment, legal, tax, or professional advice.
+
+SWB Poke Monitor does not guarantee the resale value, collectability, future price, or investment performance of any Pokémon TCG product.
+
+---
+
+## 17. No Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SWB POKE MONITOR IS PROVIDED "AS IS" AND "AS AVAILABLE."
+
+WE DISCLAIM WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND AVAILABILITY, TO THE EXTENT SUCH DISCLAIMERS ARE PERMITTED BY LAW.
+
+Some jurisdictions do not permit certain warranty exclusions, so portions of this section may not apply to you.
+
+---
+
+## 18. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SWB POKE MONITOR AND ITS OPERATOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO USE OF THE SERVICE.
+
+This includes, without limitation, losses arising from:
+
+- Missed restocks
+- Incorrect inventory information
+- Incorrect pricing
+- Delayed notifications
+- Failed notifications
+- Retailer cancellations
+- Failed purchases
+- Product sellouts
+- Retailer errors
+- Service interruptions
+- Third-party websites or services
+
+Nothing in these Terms excludes liability that cannot legally be excluded.
+
+---
+
+## 19. Suspension and Termination
+
+We may suspend, restrict, or terminate access to SWB Poke Monitor when reasonably necessary, including where:
+
+- These Terms are violated
+- The Service is abused
+- Security is threatened
+- Third-party services require access to be discontinued
+- Continued access creates legal or operational risk
+- The Service or a feature is discontinued
+
+Users may stop using SWB Poke Monitor at any time.
+
+Discord server administrators may remove the App from their server through Discord.
+
+---
+
+## 20. Changes to the Service
+
+SWB Poke Monitor is an evolving project.
+
+We may add, modify, restrict, replace, or discontinue:
+
+- Retailers
+- Commands
+- Monitoring methods
+- Notifications
+- Databases
+- APIs
+- Features
+- Hosting providers
+- User interfaces
+
+We do not guarantee that a particular feature or retailer integration will remain available indefinitely.
+
+---
+
+## 21. Changes to These Terms
+
+These Terms may be updated as SWB Poke Monitor evolves or as legal, operational, platform, or third-party requirements change.
+
+The "Last Updated" date at the top of this document will be changed when these Terms are revised.
+
+Where required by applicable law, additional notice may be provided for material changes.
+
+Continued use of SWB Poke Monitor after revised Terms become effective constitutes acceptance of those revised Terms to the extent permitted by applicable law.
+
+---
+
+## 22. Governing Law
+
+To the extent permitted by applicable law, these Terms shall be governed by the laws of the Commonwealth of Pennsylvania and applicable federal laws of the United States, without regard to conflict-of-law principles.
+
+Nothing in this section deprives a consumer of protections that cannot legally be waived under the laws applicable to that consumer.
+
+---
+
+## 23. Severability
+
+If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, the remaining provisions will continue in effect to the fullest extent permitted by law.
+
+---
+
+## 24. Entire Agreement
+
+These Terms, together with the SWB Poke Monitor Privacy Policy and any other policies expressly incorporated by reference, constitute the agreement governing use of SWB Poke Monitor.
+
+---
+
+## 25. Contact
+
+Questions regarding these Terms may be directed to:
+
+**SWB Poke Monitor**  
+
+---
+
+Copyright © 2026 SWB Poke Monitor. All rights reserved.
