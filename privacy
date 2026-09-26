@@ -1,0 +1,381 @@
+# Privacy Policy for SWB Poke Monitor
+
+**Effective Date:** September 26, 2026  
+**Last Updated:** September 26, 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how SWB Poke Monitor ("SWB Poke Monitor," "the App," "we," "us," or "our") collects, uses, stores, and protects information when users interact with the SWB Poke Monitor Discord application, related services, websites, APIs, stock-monitoring services, or other features operated as part of SWB Poke Monitor.
+
+SWB Poke Monitor is an independent Pokémon Trading Card Game ("Pokémon TCG") inventory monitoring and notification service. The App is designed to monitor publicly available or otherwise authorized product information from supported retailers and provide inventory, availability, pricing, and restock notifications to users through Discord and other supported notification methods.
+
+By using SWB Poke Monitor, you acknowledge the practices described in this Privacy Policy.
+
+---
+
+## 2. Information We May Collect
+
+SWB Poke Monitor is designed to collect only information reasonably necessary to operate its features.
+
+Depending on the features you use, we may process or store the following information.
+
+### Discord Information
+
+When you interact with SWB Poke Monitor through Discord, the App may receive or process information made available through Discord's APIs, including:
+
+- Discord user ID
+- Discord server/guild ID
+- Discord channel ID
+- Discord role information when necessary for permissions or access control
+- Discord username or display name when necessary to display App functionality
+- Discord interaction and command information
+- App configuration associated with a Discord server
+- Alert channel configuration
+
+Discord IDs are unique numerical identifiers provided by Discord and may be stored so that the App can associate settings, alerts, watchlists, and commands with the appropriate user or Discord server.
+
+SWB Poke Monitor does not request your Discord password.
+
+### Watchlists and Preferences
+
+If you use product monitoring or alert features, SWB Poke Monitor may store information such as:
+
+- Products you choose to monitor
+- Pokémon TCG sets you choose to monitor
+- Retailers you choose to monitor
+- Online or local inventory preferences
+- Alert preferences
+- Search preferences
+- Notification preferences
+- Watchlist configuration
+- Price or availability preferences
+
+This information is used to provide the monitoring and notification features you request.
+
+### Location Information
+
+Certain features may allow users to search for local retailer inventory.
+
+If you voluntarily use these features, SWB Poke Monitor may collect and store a ZIP code or similar general geographic search area that you provide.
+
+SWB Poke Monitor is not designed to request or store your precise home address, GPS coordinates, or continuous physical location.
+
+A ZIP code may be associated with a Discord user ID or monitoring preference when necessary to provide local inventory alerts.
+
+### Retailer and Product Information
+
+SWB Poke Monitor may collect, process, and store publicly available or otherwise authorized retailer and product information, including:
+
+- Product names
+- Product descriptions
+- Product identifiers
+- UPCs
+- SKUs
+- Retailer product IDs
+- Product URLs
+- Product images
+- Retailer names
+- Prices
+- Manufacturer suggested retail prices
+- Inventory or availability status
+- Store identifiers
+- General store locations
+- Product availability history
+- Timestamps showing when inventory was checked
+- Timestamps showing when availability changed
+
+This information generally relates to products and retailers rather than individual users.
+
+### Technical and Operational Information
+
+SWB Poke Monitor may automatically generate or store limited technical information necessary to operate, troubleshoot, secure, and improve the service, including:
+
+- Request timestamps
+- Command execution information
+- Application errors
+- Provider/API errors
+- Inventory-check status
+- Alert delivery status
+- Rate-limit information
+- Service health information
+- Diagnostic logs
+
+We attempt to minimize the amount of personal information contained in operational logs.
+
+---
+
+## 3. Information We Do Not Intentionally Collect
+
+Unless a future feature specifically requires it and this Privacy Policy is updated accordingly, SWB Poke Monitor is not designed to collect:
+
+- Discord passwords
+- Retailer account passwords
+- Credit card numbers
+- Bank account information
+- Social Security numbers
+- Government identification numbers
+- Exact home addresses
+- Continuous GPS location
+- Private Discord messages unrelated to App interactions
+- Message content from Discord channels for advertising or behavioral profiling
+
+SWB Poke Monitor does not require users to provide payment-card information directly to the App to receive retailer stock information.
+
+If paid features are introduced in the future, payments may be processed by an independent payment provider. This Privacy Policy will be updated as appropriate before such functionality is introduced.
+
+---
+
+## 4. How We Use Information
+
+Information collected or processed by SWB Poke Monitor may be used to:
+
+- Respond to Discord slash commands and interactions
+- Search for Pokémon TCG products
+- Monitor product availability
+- Monitor product pricing
+- Detect restocks
+- Detect relevant price changes
+- Provide local inventory searches
+- Maintain user watchlists
+- Deliver requested Discord alerts
+- Deliver other enabled notifications
+- Remember user and server preferences
+- Prevent duplicate notifications
+- Configure Discord alert channels
+- Operate administrator features
+- Troubleshoot application errors
+- Maintain service security
+- Prevent abuse
+- Enforce rate limits
+- Diagnose retailer/provider outages
+- Improve the reliability of the App
+- Comply with applicable legal obligations
+
+We do not use Discord data obtained through the App to create advertising profiles.
+
+---
+
+## 5. Discord
+
+SWB Poke Monitor integrates with Discord and may process information provided through Discord's developer APIs.
+
+Your use of Discord itself is governed separately by Discord's own Terms of Service and Privacy Policy.
+
+SWB Poke Monitor is an independent application and is not operated, sponsored, or endorsed by Discord Inc.
+
+Server administrators are responsible for determining whether SWB Poke Monitor should be installed in their Discord servers and which permissions and channels are made available to the App.
+
+---
+
+## 6. Retailers and Third-Party Services
+
+SWB Poke Monitor may interact with third-party retailers, APIs, hosting providers, databases, development platforms, and other technology providers.
+
+These services may include retailers such as:
+
+- Target
+- Walmart
+- GameStop
+- Best Buy
+- Pokémon Center
+- Dollar General
+- Family Dollar
+- Dollar Tree
+- Five Below
+- Walgreens
+- CVS
+- Sam's Club
+- Costco
+- BJ's Wholesale Club
+- Meijer
+- Kroger
+- Barnes & Noble
+- Hot Topic
+- BoxLunch
+- Macy's
+- Amazon
+
+The availability of any retailer integration may change over time.
+
+SWB Poke Monitor may provide links to retailer websites. When you follow a retailer link, your interaction with that website is governed by that retailer's own terms, privacy policy, cookies, and data practices.
+
+SWB Poke Monitor does not control third-party retailer websites.
+
+The inclusion of a retailer in SWB Poke Monitor does not imply that the retailer sponsors, endorses, operates, or is affiliated with SWB Poke Monitor.
+
+---
+
+## 7. How Information May Be Shared
+
+SWB Poke Monitor does not sell users' personal information.
+
+Information may be disclosed only when reasonably necessary to operate the service, including:
+
+### Service Providers
+
+Information may be processed by infrastructure or service providers used to host, maintain, monitor, or operate SWB Poke Monitor.
+
+### Discord
+
+Information necessary to respond to interactions and deliver alerts may be transmitted to Discord.
+
+### Retailer and API Providers
+
+Product identifiers, ZIP codes, store identifiers, or similar search parameters may be transmitted to retailer or inventory APIs when necessary to perform a requested inventory search.
+
+We do not intentionally send your Discord password or unrelated private Discord communications to retailers.
+
+### Legal Requirements
+
+Information may be preserved or disclosed if reasonably believed necessary to:
+
+- Comply with applicable law, regulation, legal process, or lawful governmental request
+- Protect the rights, property, or security of SWB Poke Monitor
+- Investigate fraud, abuse, or security incidents
+- Protect users or others from harm
+- Establish, exercise, or defend legal claims
+
+---
+
+## 8. Data Retention
+
+SWB Poke Monitor retains information only for as long as reasonably necessary to provide the service, maintain legitimate operational records, resolve disputes, prevent abuse, enforce agreements, and comply with applicable legal obligations.
+
+Watchlists and user preferences may be retained while they remain active.
+
+Server configuration may be retained while SWB Poke Monitor remains configured for that server.
+
+Alert history and inventory history may be retained to prevent duplicate alerts, diagnose service problems, and analyze inventory changes.
+
+Operational logs may be retained for a reasonable period for troubleshooting, security, and reliability purposes.
+
+Information may be deleted or anonymized when it is no longer reasonably necessary.
+
+---
+
+## 9. Data Deletion Requests
+
+Users may request deletion of personal information associated with their use of SWB Poke Monitor.
+
+Please include enough information for us to identify the applicable SWB Poke Monitor data, such as your Discord user ID.
+
+Do not send your Discord password or other sensitive authentication credentials.
+
+After reasonably verifying a request, we will delete applicable personal information from systems under our control unless retention is reasonably necessary or legally required.
+
+Removing SWB Poke Monitor from a Discord server does not necessarily result in immediate deletion of all historical operational records.
+
+Server administrators may also contact us to request deletion of configuration associated with their Discord server.
+
+---
+
+## 10. Access, Correction, and Privacy Rights
+
+Depending on where you live, applicable law may provide rights concerning your personal information, including rights to:
+
+- Request access to certain personal information
+- Request correction of inaccurate information
+- Request deletion
+- Request information about how personal information is processed
+- Object to or restrict certain processing
+- Obtain a portable copy of certain information
+
+We may need to verify your identity before fulfilling certain requests.
+
+These rights may be subject to exceptions under applicable law.
+
+---
+
+## 11. Security
+
+We use reasonable technical and organizational safeguards designed to protect information processed by SWB Poke Monitor.
+
+Measures may include:
+
+- Environment variables and secret-management systems for credentials
+- Restricted access to application credentials
+- Discord interaction signature verification
+- Access controls
+- Rate limiting
+- Secure HTTPS communications where applicable
+- Application logging and monitoring
+- Separation of credentials from public source code
+
+However, no internet-connected service or method of electronic storage can guarantee absolute security.
+
+Users should never provide SWB Poke Monitor with passwords, payment credentials, or other sensitive information unless a feature explicitly requires such information and appropriate protections are clearly disclosed.
+
+---
+
+## 12. Children's Privacy
+
+SWB Poke Monitor is intended to be used through services such as Discord and is not directed toward children who are below the minimum age legally permitted to use the applicable service in their jurisdiction.
+
+We do not knowingly collect personal information directly from children in violation of applicable law.
+
+
+---
+
+## 13. International Users
+
+SWB Poke Monitor may be accessible from multiple countries.
+
+Information may therefore be processed or stored in countries other than the country in which a user resides.
+
+Where applicable law requires additional protections for international transfers of personal information, reasonable steps will be taken to comply with those requirements.
+
+---
+
+## 14. Inventory and Availability Information
+
+SWB Poke Monitor processes product inventory information for informational and notification purposes.
+
+Inventory information may be delayed, inaccurate, incomplete, or change before a user reaches a retailer.
+
+An "in stock" notification does not guarantee that a product will remain available or that a retailer will fulfill an order.
+
+SWB Poke Monitor does not process a user's retailer purchase merely because the App provides a link to a retailer.
+
+---
+
+## 15. No Sale of Personal Information
+
+SWB Poke Monitor does not sell personal information.
+
+If our practices materially change in the future, this Privacy Policy will be updated before the new practice is implemented where required by law.
+
+---
+
+## 16. Changes to This Privacy Policy
+
+We may update this Privacy Policy as SWB Poke Monitor evolves, new retailers or features are introduced, infrastructure changes, or legal requirements change.
+
+When material changes are made, the "Last Updated" date at the top of this Privacy Policy will be updated.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+Continued use of SWB Poke Monitor following an update is subject to the revised Privacy Policy to the extent permitted by applicable law.
+
+---
+
+## 17. Third-Party Trademarks
+
+Pokémon, Pokémon TCG, and related names, trademarks, characters, and intellectual property are owned by their respective rights holders.
+
+Retailer names and trademarks belong to their respective owners.
+
+SWB Poke Monitor is an independent project and is not affiliated with, endorsed by, sponsored by, or operated by The Pokémon Company, Nintendo, Game Freak, Creatures Inc., Discord Inc., or any retailer referenced by the service unless expressly stated otherwise.
+
+Use of third-party names is intended solely to identify products, retailers, or services relevant to inventory-monitoring functionality.
+
+---
+
+## 18. Contact
+
+Questions, privacy requests, data-deletion requests, or concerns regarding this Privacy Policy may be directed to:
+
+**SWB Poke Monitor**  
+
+---
+
+Copyright © 2026 SWB Poke Monitor. All rights reserved.
